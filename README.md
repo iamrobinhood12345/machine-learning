@@ -29,3 +29,5 @@ Dataset Columns:
     14. MEDV     Median value of owner-occupied homes in $1000's
 
 Dataset Rows:   Boston land tracts.
+
+This was a fun assignment. I got into the assignment by really studying the data columns and thinking about how different column data could be related to one another. It took a while to realize what the x-axis was though. Its not very explicit on the website.
