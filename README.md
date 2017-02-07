@@ -1,5 +1,7 @@
 # machine-learning
 
+**Branch: Analyze**
+
 A dataset analyed using Python, Jupyter Notebook, Pandas, and Matplotlib.
 
 Dataset URL: https://archive.ics.uci.edu/ml/datasets/Housing
@@ -31,3 +33,42 @@ Dataset Columns:
 Dataset Rows:   Boston land tracts.
 
 This was a fun assignment. I got into the assignment by really studying the data columns and thinking about how different column data could be related to one another. It took a while to realize what the x-axis was though. Its not very explicit on the website.
+
+=========================================================
+
+**Branch: Imperfect Data**
+
+A dataset analyzed using Python, Jupyter Notebook, Pandas, and Matplotlib.
+
+Dataset URL: hhttps://data.seattle.gov/City-Business/City-of-Seattle-Wages-Comparison-by-Gender-All-Job/cf52-s8er
+
+Dataset Title: City of Seattle Wages: Comparison by Gender - All Job Classifications
+
+Dataset Updated: September 27, 2016
+
+Dataset Created: July 16, 2013
+
+Number of Columns: 12
+
+Number of Rows: 872
+
+Dataset Columns:
+
+    0. Jobtitle
+    1. Female Avg Hrly Rate
+    2. No. Female Empl
+    3. Average of Female MONTHS LONGEVITY IN CURRENT CLASSIFICATION
+    4. Male Avg Hrly Rate
+    5. No. Male Empl
+    6. Average of Male MONTHS LONGEVITY IN CURRENT CLASSIFICATION
+    7. Total Avg Hrly Rate
+    8. Total No. Empl
+    9. Total Average MONTHS LONGEVITY IN CURRENT CLASSIFICATION
+    10. Ratio of women's hourly rate to men's hourly rate
+    11. Notes
+
+Dataset Rows: Job Classifications
+
+Preprocessing includes naming columns of Pandas Data Frame and removing row of column names of csv data in data frame.
+
+I chose this dataset because I thought it would be interesting to study the earnings between genders in local government.
